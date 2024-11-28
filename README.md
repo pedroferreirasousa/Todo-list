@@ -1,7 +1,7 @@
-### 🌐 Deploy
+### 🌐 Deploy :
 <a href="">https://pedroferreirasousa.github.io/todo-list/</a>
 
-### Skills
+### Skills :
 <div>
 <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
